@@ -1,0 +1,2 @@
+# testrepo
+tanuláshoz kell
